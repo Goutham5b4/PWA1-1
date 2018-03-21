@@ -1,0 +1,28 @@
+{
+  "basics":{
+    "photo":"images.jpg",
+    "name":"Saif Ahmed",
+    "email":"saif3536@gmail.com",
+    "mobile":"9533782105"
+  },
+  "education":[
+    {
+      "course":"B.Tech(Computer Science and Engineering)",
+      "Institution" : ["G Pullaiah College of Engineering & Technology",
+        "2015-2019",
+        "70"]
+    },
+    {
+      "course":"Intermediate(MPC)",
+      "Institution" : ["Narayana Junior College",
+        "2013-2015",
+        "84"]
+    },
+    {
+      "course":"SSC(State)",
+      "Institution" : ["SSMES",
+        "2012-2013",
+        "88"]
+    }
+  ]
+}
